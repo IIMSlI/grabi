@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.titlething{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+};
+
+.body{
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(0,0,0,1) 0%, rgba(55,37,121,1) 15%, rgba(88,15,157,1) 28%, rgba(133,32,164,1) 45%, rgba(187,55,178,1) 58%, rgba(189,65,139,1) 70%, rgba(210,62,125,1) 80%, rgba(230,48,109,1) 87%, rgba(252,70,107,1) 98%);
+text-align: center;
+};
+
+.button-67 {
+    align-items: center;
+    background: #f5f5fa;
+    border: 0;
+    border-radius: 8px;
+    box-shadow: -10px -10px 30px 0 #fff,10px 10px 30px 0 #1d0dca17;
+    box-sizing: border-box;
+    color: #2a1f62;
+    cursor: pointer;
+    display: flex;
+    font-family: "Cascadia Code",Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace;
+    font-size: 1rem;
+    justify-content: center;
+    line-height: 1.5rem;
+    padding: 15px;
+    position: relative;
+    text-align: left;
+    transition: .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: pre;
+    width: max-content;
+    word-break: normal;
+    word-spacing: normal;
+  }
+  
+  .button-67:hover {
+    background: #f8f8ff;
+    box-shadow: -15px -15px 30px 0 #fff, 15px 15px 30px 0 #1d0dca17;
+  }
+  
+  @media (min-width: 768px) {
+    .button-67 {
+    padding: 24px;
+    };
+  };
+          
+
+
+.h1{
+    text-align: center;
+}
